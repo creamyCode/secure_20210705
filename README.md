@@ -53,3 +53,16 @@ destroy () {
   this.subscription = null;
 }
 ```
+
+# 웹 취약점 점검 툴 (무료)
+
+취약점 점검가능한 데모사이트 : http://zero.webappsecurity.com/
+
+### 1. arachni
+url : https://www.arachni-scanner.com/download/
+실행방법 : https://blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221409941106
+
+### 2. owasp zap
+url : https://www.zaproxy.org/download/
+실행방법 : https://blog.naver.com/is_king/221552898200
+※ 실행간 java 설치 필요
