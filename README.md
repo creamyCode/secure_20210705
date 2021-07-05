@@ -66,3 +66,14 @@ url : https://www.arachni-scanner.com/download/
 url : https://www.zaproxy.org/download/
 실행방법 : https://blog.naver.com/is_king/221552898200
 ※ 실행간 java 설치 필요
+
+
+# 시큐어 코딩 관련 참고자료
+
+1. 소프트웨어 보안약점 진단가이드
+ 
+https://www.kisa.or.kr/public/laws/laws3_View.jsp?cPage=6&mode=view&p_No=259&b_No=259&d_No=52&ST=T&SV=
+
+2. OWASP 2020 10대 취약점
+
+https://www.lesstif.com/security/owasp-2020-10-91291830.html#OWASP202010%EB%8C%80%EC%B7%A8%EC%95%BD%EC%A0%90-A1.Injection(%EC%9D%B8%EC%A0%9D%EC%85%98)
